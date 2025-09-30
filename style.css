@@ -5,5 +5,21 @@
   font-family: cursive;
 }
 @keyframes fadecolors(
-0%(
-( background-color:red
+0% (
+( background-color:red;
+)
+25% (
+background-color:orange;
+)
+50% (
+background-color:yellow;
+)
+75% ( 
+background-color:green;
+)
+100% (
+background-color:blue;
+)
+)
+body (
+animation: fadecolors 20s ease-in infinite;
