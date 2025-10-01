@@ -22,5 +22,5 @@
  }
 }
 body {
- animation: fadecolors 10 ease-in infinite;
+ animation: fadecolors 10s ease-in infinite;
 }
